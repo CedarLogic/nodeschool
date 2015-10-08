@@ -1,2 +1,0 @@
-# nodeschool
-learnyounode from workshops
